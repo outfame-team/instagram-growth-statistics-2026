@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite it as below."
+title: "Instagram growth statistics 2026"
+type: dataset
+authors:
+  - name: "Outfame"
+    website: "https://www.outfame.com"
+url: "https://www.outfame.com/instagram-growth-statistics"
+repository-code: "https://github.com/outfame-team/instagram-growth-statistics-2026"
+license: CC-BY-4.0
+date-released: 2026-10-30
+keywords:
+  - instagram
+  - instagram growth
+  - follower growth
+  - social media statistics
+  - creator economy
